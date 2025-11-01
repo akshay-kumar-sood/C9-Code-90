@@ -4,13 +4,13 @@ Welcome to my 90 Days of Coding Challenge — an exciting journey to strengthen 
 
 🎯 Goal
 
-Practice DSA problems daily 🧠
+🧠 Practice DSA problems daily
 
-Build strong problem-solving habits ⚙️
+⚙️ Build strong problem-solving habits 
 
-Revise and retain concepts through repetition 🔁
+🔁 Revise and retain concepts through repetition 
 
-Track every bit of progress transparently 📈
+📈 Track every bit of progress transparently 
 
 🗺️ Roadmap
 
