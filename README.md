@@ -38,3 +38,10 @@ https://docs.google.com/spreadsheets/d/1h0kftLwd2dHiPXnVPXPcFkQNDekPwDNUNVyZKBjO
 🧠 Connect With Me
 
 🔗 LinkedIn   https://www.linkedin.com/in/akshay-sood-3692b5297/
+
+Git commands
+git status
+git add folder/file
+git commit -m "added new file"
+git push origin main
+
